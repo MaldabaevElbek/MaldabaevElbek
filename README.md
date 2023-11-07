@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaldabaevElbek
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++/fl studio
+- 👀 I’m interested in C++ and Kali Linux
+- 🌱 I’m currently learning C++/Kali linux
 - 💞️ I’m looking to collaborate on developers
 
 <!---
